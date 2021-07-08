@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/drawer_AddCar"
+        android:title="Add New Car" />
+    <item
+        android:id="@+id/drawer_RemoveCar"
+        android:title="Remove Last Car" />
+    <item
+        android:id="@+id/drawer_RemoveAll"
+        android:title="Remove All Cars" />
+    <item
+        android:id="@+id/drawer_ListAll"
+        android:title="List All Items" />
+    <item
+        android:id="@+id/drawer_close_btn"
+        android:title="Close" />
+</menu>
